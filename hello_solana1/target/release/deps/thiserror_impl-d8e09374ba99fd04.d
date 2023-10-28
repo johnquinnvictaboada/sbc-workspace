@@ -1,0 +1,13 @@
+/home/quin/Documents/solana/sbc-workspace/hello_solana1/target/release/deps/libthiserror_impl-d8e09374ba99fd04.so: /home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.50/src/lib.rs /home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.50/src/ast.rs /home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.50/src/attr.rs /home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.50/src/expand.rs /home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.50/src/fmt.rs /home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.50/src/generics.rs /home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.50/src/prop.rs /home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.50/src/span.rs /home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.50/src/valid.rs
+
+/home/quin/Documents/solana/sbc-workspace/hello_solana1/target/release/deps/thiserror_impl-d8e09374ba99fd04.d: /home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.50/src/lib.rs /home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.50/src/ast.rs /home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.50/src/attr.rs /home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.50/src/expand.rs /home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.50/src/fmt.rs /home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.50/src/generics.rs /home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.50/src/prop.rs /home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.50/src/span.rs /home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.50/src/valid.rs
+
+/home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.50/src/lib.rs:
+/home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.50/src/ast.rs:
+/home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.50/src/attr.rs:
+/home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.50/src/expand.rs:
+/home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.50/src/fmt.rs:
+/home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.50/src/generics.rs:
+/home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.50/src/prop.rs:
+/home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.50/src/span.rs:
+/home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.50/src/valid.rs:

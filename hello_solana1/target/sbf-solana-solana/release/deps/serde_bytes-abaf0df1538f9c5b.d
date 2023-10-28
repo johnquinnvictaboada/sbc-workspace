@@ -1,0 +1,11 @@
+/home/quin/Documents/solana/sbc-workspace/hello_solana1/target/sbf-solana-solana/release/deps/serde_bytes-abaf0df1538f9c5b.rmeta: /home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/lib.rs /home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/bytes.rs /home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/de.rs /home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/ser.rs /home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/bytebuf.rs
+
+/home/quin/Documents/solana/sbc-workspace/hello_solana1/target/sbf-solana-solana/release/deps/libserde_bytes-abaf0df1538f9c5b.rlib: /home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/lib.rs /home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/bytes.rs /home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/de.rs /home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/ser.rs /home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/bytebuf.rs
+
+/home/quin/Documents/solana/sbc-workspace/hello_solana1/target/sbf-solana-solana/release/deps/serde_bytes-abaf0df1538f9c5b.d: /home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/lib.rs /home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/bytes.rs /home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/de.rs /home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/ser.rs /home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/bytebuf.rs
+
+/home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/lib.rs:
+/home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/bytes.rs:
+/home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/de.rs:
+/home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/ser.rs:
+/home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/bytebuf.rs:

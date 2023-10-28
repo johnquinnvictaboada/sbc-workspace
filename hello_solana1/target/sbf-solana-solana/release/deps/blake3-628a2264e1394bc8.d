@@ -1,0 +1,13 @@
+/home/quin/Documents/solana/sbc-workspace/hello_solana1/target/sbf-solana-solana/release/deps/blake3-628a2264e1394bc8.rmeta: /home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.5.0/src/lib.rs /home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.5.0/src/guts.rs /home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.5.0/src/platform.rs /home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.5.0/src/portable.rs /home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.5.0/src/traits.rs /home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.5.0/src/io.rs /home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.5.0/src/join.rs
+
+/home/quin/Documents/solana/sbc-workspace/hello_solana1/target/sbf-solana-solana/release/deps/libblake3-628a2264e1394bc8.rlib: /home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.5.0/src/lib.rs /home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.5.0/src/guts.rs /home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.5.0/src/platform.rs /home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.5.0/src/portable.rs /home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.5.0/src/traits.rs /home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.5.0/src/io.rs /home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.5.0/src/join.rs
+
+/home/quin/Documents/solana/sbc-workspace/hello_solana1/target/sbf-solana-solana/release/deps/blake3-628a2264e1394bc8.d: /home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.5.0/src/lib.rs /home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.5.0/src/guts.rs /home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.5.0/src/platform.rs /home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.5.0/src/portable.rs /home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.5.0/src/traits.rs /home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.5.0/src/io.rs /home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.5.0/src/join.rs
+
+/home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.5.0/src/lib.rs:
+/home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.5.0/src/guts.rs:
+/home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.5.0/src/platform.rs:
+/home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.5.0/src/portable.rs:
+/home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.5.0/src/traits.rs:
+/home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.5.0/src/io.rs:
+/home/quin/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.5.0/src/join.rs:
